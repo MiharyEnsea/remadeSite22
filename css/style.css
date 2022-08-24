@@ -246,6 +246,11 @@ a{
     height: 5px;    
 }
 
+@media (min-width:769px){
+    h2{
+    font-size: 3.5rem;
+    }
+}
 
 /* Footer */
 footer{

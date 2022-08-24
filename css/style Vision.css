@@ -397,7 +397,7 @@ html{
 
 .cf figcaption{
     position: absolute;
-    bottom: -4%;
+    top : 52%;
     left: 0%;
     -webkit-transition: opacity 1s ease-in-out;
   	-moz-transition: opacity 1s ease-in-out;
